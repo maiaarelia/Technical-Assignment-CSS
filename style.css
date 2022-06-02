@@ -6,6 +6,7 @@ nav {
     text-transform: uppercase;
     padding-top: 10px;
     padding-bottom: 10px;
+    flex-wrap: wrap;
 }
 
 nav a{
